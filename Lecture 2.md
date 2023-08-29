@@ -5,7 +5,7 @@ project - may 26/27 (practical)
 # Fundamentals of Remote Sensing
 Remote sensing - collection of radiation, with sensor, withour touching
 
-![[Pasted image 20220218082441.png]]
+![Pasted image 20220218082441.png]
 
 captures colors in rgb
 
